@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Simulator16TB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2a7eaa9430f31da4b967eaff8d09f45e958f1ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+048f5810b97d9f00c5a66b184d230d31a6b4288e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Simulator16TB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Simulator16TB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
